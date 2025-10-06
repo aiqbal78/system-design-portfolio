@@ -14,7 +14,7 @@ This repository contains a collection of **end-to-end system design implementati
 
 Each project is self-contained with `docker-compose.yml` or Kubernetes manifests and focuses on a specific design problem.
 
----
+-
 
 ## 🗂 Repository Structure
 | Folder | Project | Concepts Covered |
